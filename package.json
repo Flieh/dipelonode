@@ -1,24 +1,25 @@
 {
-  "name": "nodeseed",
-  "version": "0.1.0",
-  "description": "starting state for node projects",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Flieh/nodeseed.git"
-  },
-  "keywords": [
-    "node",
-    "bootstrap"
-  ],
-  "author": "flieh",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Flieh/nodeseed/issues"
-  },
-  "homepage": "https://github.com/Flieh/nodeseed#readme"
+    "name": "dipelonode",
+    "version": "0.1.0",
+    "description": "port of Dipelo PHP",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Flieh/dipelonode.git"
+    },
+    "keywords": [
+        "dipelo1",
+        "node",
+        "bootstrap"
+    ],
+    "author": "flieh",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Flieh/dipelonode/issues"
+    },
+    "homepage": "https://github.com/Flieh/dipelonode#readme"
 }
