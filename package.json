@@ -2,10 +2,10 @@
     "name": "dipelonode",
     "version": "0.1.0",
     "description": "port of Dipelo PHP",
-    "main": "server.js",
+    "main": "main.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "node server.js"
+        "start": "node main.js"
     },
     "repository": {
         "type": "git",
