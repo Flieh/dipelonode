@@ -1,4 +1,4 @@
 'use strict';
-let csv = require('./js/csvToJson.js');
-csv('csv/test.csv', 'dump/garbage.json');
+let csvToJson = require('./js/csvToJson.js');
+csvToJson('csv/test.csv', '/garbage.json');
 
