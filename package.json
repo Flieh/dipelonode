@@ -1,25 +1,28 @@
 {
-    "name": "dipelonode",
-    "version": "0.1.0",
-    "description": "port of Dipelo PHP",
-    "main": "main.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "node main.js"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/Flieh/dipelonode.git"
-    },
-    "keywords": [
-        "dipelo1",
-        "node",
-        "bootstrap"
-    ],
-    "author": "flieh",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/Flieh/dipelonode/issues"
-    },
-    "homepage": "https://github.com/Flieh/dipelonode#readme"
+  "name": "dipelonode",
+  "version": "0.1.0",
+  "description": "port of Dipelo PHP",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flieh/dipelonode.git"
+  },
+  "keywords": [
+    "dipelo1",
+    "node",
+    "bootstrap"
+  ],
+  "author": "flieh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Flieh/dipelonode/issues"
+  },
+  "homepage": "https://github.com/Flieh/dipelonode#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
 }
